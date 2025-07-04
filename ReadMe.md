@@ -4,7 +4,7 @@ A lightweight and beginner-friendly Streamlit app that helps you generate Linked
 
 This project is a part of my learning journey, where I’m exploring prompt engineering, Streamlit apps, and large language models.
 
-![Workflow](architexture.jpg)
+![Workflow](architecture.jpg)
 
 ---
 
