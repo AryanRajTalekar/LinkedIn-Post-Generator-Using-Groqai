@@ -66,3 +66,10 @@ Groq for ultra-fast inference with LLaMA models
 Love Babbar — inspiration for post styles
 
 Streamlit for the clean and intuitive UI framework
+
+🙏 Special Thanks
+A big shoutout to Dhaval Patel from Codebasics —
+one of the best teachers I've ever come across.
+His clear, concise, and real-world focused teaching style continues to inspire me as I build and learn.
+
+
